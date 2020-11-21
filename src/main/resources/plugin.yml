@@ -1,0 +1,6 @@
+name: Ranking
+version: ${project.version}
+main: ranking.minidon.ranking.Ranking
+authors: [t0206]
+commands:
+  ranking:
